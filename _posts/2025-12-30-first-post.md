@@ -1,8 +1,11 @@
 ---
+
 layout: post
-title:  "这是我的第一篇正式博客"
-date:   2025-12-30
-categories: 学习笔记
+
+title: 这是我的第一篇正式博客
+
+date: 2025-12-30categories: 学习笔记
+
 ---
 
 # 欢迎来到我的博客
